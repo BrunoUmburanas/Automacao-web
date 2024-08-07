@@ -45,4 +45,4 @@ finish_botao=drive.find_element(By.XPATH,'/html/body/div/div/div/div[2]/div/div[
 finish_botao.click()
 
 
-sleep(5)
+sleep(3)
